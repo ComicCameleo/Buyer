@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AmazonBuyerRunner", "AmazonBuyerRunner\AmazonBuyerRunner.csproj", "{21004334-F9F3-43AB-944B-627D153718D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AmazonApiBuyer", "AmazonApiBuyer\AmazonApiBuyer\AmazonApiBuyer.csproj", "{1D330965-5B6B-4403-BC22-76737E64AF1C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AmazonUIBuyer", "AmazonUIBuyer\AmazonUIBuyer\AmazonUIBuyer.csproj", "{2B05FC6B-2919-452E-B208-EC585405B975}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xml2", "xml2\xml2\xml2.csproj", "{F4B16710-B901-446E-B5BC-E247CF0782AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21004334-F9F3-43AB-944B-627D153718D8}.Debug|x86.ActiveCfg = Debug|x86
+		{21004334-F9F3-43AB-944B-627D153718D8}.Debug|x86.Build.0 = Debug|x86
+		{21004334-F9F3-43AB-944B-627D153718D8}.Release|x86.ActiveCfg = Release|x86
+		{21004334-F9F3-43AB-944B-627D153718D8}.Release|x86.Build.0 = Release|x86
+		{1D330965-5B6B-4403-BC22-76737E64AF1C}.Debug|x86.ActiveCfg = Debug|x86
+		{1D330965-5B6B-4403-BC22-76737E64AF1C}.Debug|x86.Build.0 = Debug|x86
+		{1D330965-5B6B-4403-BC22-76737E64AF1C}.Release|x86.ActiveCfg = Release|x86
+		{1D330965-5B6B-4403-BC22-76737E64AF1C}.Release|x86.Build.0 = Release|x86
+		{2B05FC6B-2919-452E-B208-EC585405B975}.Debug|x86.ActiveCfg = Debug|x86
+		{2B05FC6B-2919-452E-B208-EC585405B975}.Debug|x86.Build.0 = Debug|x86
+		{2B05FC6B-2919-452E-B208-EC585405B975}.Release|x86.ActiveCfg = Release|x86
+		{2B05FC6B-2919-452E-B208-EC585405B975}.Release|x86.Build.0 = Release|x86
+		{F4B16710-B901-446E-B5BC-E247CF0782AE}.Debug|x86.ActiveCfg = Debug|x86
+		{F4B16710-B901-446E-B5BC-E247CF0782AE}.Debug|x86.Build.0 = Debug|x86
+		{F4B16710-B901-446E-B5BC-E247CF0782AE}.Release|x86.ActiveCfg = Release|x86
+		{F4B16710-B901-446E-B5BC-E247CF0782AE}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
