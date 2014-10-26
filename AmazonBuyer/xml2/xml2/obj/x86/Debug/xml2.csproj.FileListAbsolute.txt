@@ -1,0 +1,19 @@
+C:\Users\Alexei\Desktop\Alik\project\prj\xml2\xml2\bin\Debug\xml2.exe
+C:\Users\Alexei\Desktop\Alik\project\prj\xml2\xml2\bin\Debug\xml2.pdb
+C:\Users\Alexei\Desktop\Alik\project\prj\xml2\xml2\obj\x86\Debug\xml2.exe
+C:\Users\Alexei\Desktop\Alik\project\prj\xml2\xml2\obj\x86\Debug\xml2.pdb
+D:\Downloads stuff\BuyerTotal\Extractor\xml2\xml2\bin\Debug\xml2.pdb
+D:\Downloads stuff\BuyerTotal\Extractor\xml2\xml2\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Downloads stuff\BuyerTotal\Extractor\xml2\xml2\obj\x86\Debug\xml2.pdb
+D:\Downloads stuff\BuyerTotal\Extractor\xml2\xml2\bin\Debug\xml2.dll
+D:\Downloads stuff\BuyerTotal\Extractor\xml2\xml2\obj\x86\Debug\xml2.dll
+D:\Downloads stuff\BuyerTotal\AmazonBuyer\xml2\xml2\bin\Debug\xml2.dll
+D:\Downloads stuff\BuyerTotal\AmazonBuyer\xml2\xml2\bin\Debug\xml2.pdb
+D:\Downloads stuff\BuyerTotal\AmazonBuyer\xml2\xml2\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Downloads stuff\BuyerTotal\AmazonBuyer\xml2\xml2\obj\x86\Debug\xml2.dll
+D:\Downloads stuff\BuyerTotal\AmazonBuyer\xml2\xml2\obj\x86\Debug\xml2.pdb
+D:\Downloads stuff\AmazonBuyer\xml2\xml2\bin\Debug\xml2.dll
+D:\Downloads stuff\AmazonBuyer\xml2\xml2\bin\Debug\xml2.pdb
+D:\Downloads stuff\AmazonBuyer\xml2\xml2\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Downloads stuff\AmazonBuyer\xml2\xml2\obj\x86\Debug\xml2.dll
+D:\Downloads stuff\AmazonBuyer\xml2\xml2\obj\x86\Debug\xml2.pdb

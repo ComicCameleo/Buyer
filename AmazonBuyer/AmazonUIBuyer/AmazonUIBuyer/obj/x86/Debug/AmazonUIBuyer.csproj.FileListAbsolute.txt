@@ -1,0 +1,55 @@
+c:\documents and settings\admin\мои документы\visual studio 2010\Projects\AmazonUIBuyer\AmazonUIBuyer\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\admin\мои документы\visual studio 2010\Projects\AmazonUIBuyer\AmazonUIBuyer\bin\Debug\AmazonUIBuyer.exe
+c:\documents and settings\admin\мои документы\visual studio 2010\Projects\AmazonUIBuyer\AmazonUIBuyer\bin\Debug\AmazonUIBuyer.pdb
+c:\documents and settings\admin\мои документы\visual studio 2010\Projects\AmazonUIBuyer\AmazonUIBuyer\bin\Debug\WebDriver.dll
+c:\documents and settings\admin\мои документы\visual studio 2010\Projects\AmazonUIBuyer\AmazonUIBuyer\bin\Debug\WebDriver.Support.dll
+c:\documents and settings\admin\мои документы\visual studio 2010\Projects\AmazonUIBuyer\AmazonUIBuyer\bin\Debug\WebDriver.pdb
+c:\documents and settings\admin\мои документы\visual studio 2010\Projects\AmazonUIBuyer\AmazonUIBuyer\bin\Debug\WebDriver.xml
+c:\documents and settings\admin\мои документы\visual studio 2010\Projects\AmazonUIBuyer\AmazonUIBuyer\bin\Debug\WebDriver.Support.pdb
+c:\documents and settings\admin\мои документы\visual studio 2010\Projects\AmazonUIBuyer\AmazonUIBuyer\bin\Debug\WebDriver.Support.xml
+c:\documents and settings\admin\мои документы\visual studio 2010\Projects\AmazonUIBuyer\AmazonUIBuyer\obj\x86\Debug\AmazonUIBuyer.exe
+c:\documents and settings\admin\мои документы\visual studio 2010\Projects\AmazonUIBuyer\AmazonUIBuyer\obj\x86\Debug\AmazonUIBuyer.pdb
+d:\AutomationDev\AmazonUIBuyer\AmazonUIBuyer\obj\x86\Debug\AmazonUIBuyer.exe
+d:\AutomationDev\AmazonUIBuyer\AmazonUIBuyer\obj\x86\Debug\AmazonUIBuyer.pdb
+d:\AutomationDev\AmazonUIBuyer\AmazonUIBuyer\obj\x86\Debug\AmazonUIBuyer.csprojResolveAssemblyReference.cache
+d:\AutomationDev\AmazonUIBuyer\AmazonUIBuyer\bin\Debug\AmazonUIBuyer.exe
+d:\AutomationDev\AmazonUIBuyer\AmazonUIBuyer\bin\Debug\AmazonUIBuyer.pdb
+d:\AutomationDev\AmazonUIBuyer\AmazonUIBuyer\bin\Debug\WebDriver.dll
+d:\AutomationDev\AmazonUIBuyer\AmazonUIBuyer\bin\Debug\WebDriver.Support.dll
+d:\AutomationDev\AmazonUIBuyer\AmazonUIBuyer\bin\Debug\WebDriver.pdb
+d:\AutomationDev\AmazonUIBuyer\AmazonUIBuyer\bin\Debug\WebDriver.xml
+d:\AutomationDev\AmazonUIBuyer\AmazonUIBuyer\bin\Debug\WebDriver.Support.pdb
+d:\AutomationDev\AmazonUIBuyer\AmazonUIBuyer\bin\Debug\WebDriver.Support.xml
+D:\Downloads stuff\BuyerTotal\AmazonUIBuyer\AmazonUIBuyer\bin\Debug\AmazonUIBuyer.pdb
+D:\Downloads stuff\BuyerTotal\AmazonUIBuyer\AmazonUIBuyer\bin\Debug\WebDriver.dll
+D:\Downloads stuff\BuyerTotal\AmazonUIBuyer\AmazonUIBuyer\bin\Debug\WebDriver.Support.dll
+D:\Downloads stuff\BuyerTotal\AmazonUIBuyer\AmazonUIBuyer\bin\Debug\WebDriver.pdb
+D:\Downloads stuff\BuyerTotal\AmazonUIBuyer\AmazonUIBuyer\bin\Debug\WebDriver.xml
+D:\Downloads stuff\BuyerTotal\AmazonUIBuyer\AmazonUIBuyer\bin\Debug\WebDriver.Support.pdb
+D:\Downloads stuff\BuyerTotal\AmazonUIBuyer\AmazonUIBuyer\bin\Debug\WebDriver.Support.xml
+D:\Downloads stuff\BuyerTotal\AmazonUIBuyer\AmazonUIBuyer\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Downloads stuff\BuyerTotal\AmazonUIBuyer\AmazonUIBuyer\obj\x86\Debug\AmazonUIBuyer.pdb
+D:\Downloads stuff\BuyerTotal\AmazonUIBuyer\AmazonUIBuyer\bin\Debug\AmazonUIBuyer.dll
+D:\Downloads stuff\BuyerTotal\AmazonUIBuyer\AmazonUIBuyer\obj\x86\Debug\AmazonUIBuyer.dll
+D:\Downloads stuff\BuyerTotal\AmazonBuyer\AmazonUIBuyer\AmazonUIBuyer\bin\Debug\AmazonUIBuyer.dll
+D:\Downloads stuff\BuyerTotal\AmazonBuyer\AmazonUIBuyer\AmazonUIBuyer\bin\Debug\AmazonUIBuyer.pdb
+D:\Downloads stuff\BuyerTotal\AmazonBuyer\AmazonUIBuyer\AmazonUIBuyer\bin\Debug\WebDriver.dll
+D:\Downloads stuff\BuyerTotal\AmazonBuyer\AmazonUIBuyer\AmazonUIBuyer\bin\Debug\WebDriver.Support.dll
+D:\Downloads stuff\BuyerTotal\AmazonBuyer\AmazonUIBuyer\AmazonUIBuyer\bin\Debug\WebDriver.pdb
+D:\Downloads stuff\BuyerTotal\AmazonBuyer\AmazonUIBuyer\AmazonUIBuyer\bin\Debug\WebDriver.xml
+D:\Downloads stuff\BuyerTotal\AmazonBuyer\AmazonUIBuyer\AmazonUIBuyer\bin\Debug\WebDriver.Support.pdb
+D:\Downloads stuff\BuyerTotal\AmazonBuyer\AmazonUIBuyer\AmazonUIBuyer\bin\Debug\WebDriver.Support.xml
+D:\Downloads stuff\BuyerTotal\AmazonBuyer\AmazonUIBuyer\AmazonUIBuyer\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Downloads stuff\BuyerTotal\AmazonBuyer\AmazonUIBuyer\AmazonUIBuyer\obj\x86\Debug\AmazonUIBuyer.dll
+D:\Downloads stuff\BuyerTotal\AmazonBuyer\AmazonUIBuyer\AmazonUIBuyer\obj\x86\Debug\AmazonUIBuyer.pdb
+D:\Downloads stuff\AmazonBuyer\AmazonUIBuyer\AmazonUIBuyer\bin\Debug\AmazonUIBuyer.dll
+D:\Downloads stuff\AmazonBuyer\AmazonUIBuyer\AmazonUIBuyer\bin\Debug\AmazonUIBuyer.pdb
+D:\Downloads stuff\AmazonBuyer\AmazonUIBuyer\AmazonUIBuyer\bin\Debug\WebDriver.dll
+D:\Downloads stuff\AmazonBuyer\AmazonUIBuyer\AmazonUIBuyer\bin\Debug\WebDriver.Support.dll
+D:\Downloads stuff\AmazonBuyer\AmazonUIBuyer\AmazonUIBuyer\bin\Debug\WebDriver.pdb
+D:\Downloads stuff\AmazonBuyer\AmazonUIBuyer\AmazonUIBuyer\bin\Debug\WebDriver.xml
+D:\Downloads stuff\AmazonBuyer\AmazonUIBuyer\AmazonUIBuyer\bin\Debug\WebDriver.Support.pdb
+D:\Downloads stuff\AmazonBuyer\AmazonUIBuyer\AmazonUIBuyer\bin\Debug\WebDriver.Support.xml
+D:\Downloads stuff\AmazonBuyer\AmazonUIBuyer\AmazonUIBuyer\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Downloads stuff\AmazonBuyer\AmazonUIBuyer\AmazonUIBuyer\obj\x86\Debug\AmazonUIBuyer.dll
+D:\Downloads stuff\AmazonBuyer\AmazonUIBuyer\AmazonUIBuyer\obj\x86\Debug\AmazonUIBuyer.pdb

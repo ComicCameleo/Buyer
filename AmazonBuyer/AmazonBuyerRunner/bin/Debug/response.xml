@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CartCreateResponse xmlns="http://webservices.amazon.com/AWSECommerceService/2011-08-01">
+  <OperationRequest>
+    <HTTPHeaders>
+      <Header Name="UserAgent" Value="Jakarta Commons-HttpClient/3.0.1"></Header>
+    </HTTPHeaders>
+    <RequestId>0KN1CH2EA5JM4CQBCPW7</RequestId>
+    <Arguments>
+      <Argument Name="AssociateTag" Value="0925-5541-7892"></Argument>
+      <Argument Name="Item.1.ASIN" Value="0071591060"></Argument>
+      <Argument Name="Service" Value="AWSECommerceService"></Argument>
+      <Argument Name="Signature" Value="YM+kUuBjKfWR6v5VqihhNnP8HQPL9pjR0KCV3ORtfcc="></Argument>
+      <Argument Name="Item.1.Quantity" Value="1"></Argument>
+      <Argument Name="Operation" Value="CartCreate"></Argument>
+      <Argument Name="AWSAccessKeyId" Value="AKIAJD3AKNWLJZWFC25A"></Argument>
+      <Argument Name="Timestamp" Value="2014-10-19T15:20:22Z"></Argument>
+      <Argument Name="Version" Value="2011-08-01"></Argument>
+    </Arguments>
+    <RequestProcessingTime>0.107860088348389</RequestProcessingTime>
+  </OperationRequest>
+  <Cart>
+    <Request>
+      <IsValid>True</IsValid>
+      <CartCreateRequest>
+        <Items>
+          <Item>
+            <ASIN>0071591060</ASIN>
+            <Quantity>1</Quantity>
+          </Item>
+        </Items>
+      </CartCreateRequest>
+    </Request>
+    <CartId>180-7261261-1610722</CartId>
+    <HMAC>KzmxPauBQTZqfXjOh2TLbnJW7QY=</HMAC>
+    <URLEncodedHMAC>KzmxPauBQTZqfXjOh2TLbnJW7QY%3D</URLEncodedHMAC>
+    <PurchaseURL>https://www.amazon.com/gp/cart/aws-merge.html?cart-id=180-7261261-1610722%26associate-id=0925-5541-7892%26hmac=KzmxPauBQTZqfXjOh2TLbnJW7QY=%26SubscriptionId=AKIAJD3AKNWLJZWFC25A%26MergeCart=False</PurchaseURL>
+    <SubTotal>
+      <Amount>2900</Amount>
+      <CurrencyCode>USD</CurrencyCode>
+      <FormattedPrice>$29.00</FormattedPrice>
+    </SubTotal>
+    <CartItems>
+      <SubTotal>
+        <Amount>2900</Amount>
+        <CurrencyCode>USD</CurrencyCode>
+        <FormattedPrice>$29.00</FormattedPrice>
+      </SubTotal>
+      <CartItem>
+        <CartItemId>CX6LVSSD86IVZ</CartItemId>
+        <ASIN>0071591060</ASIN>
+        <SellerNickname>Amazon.com</SellerNickname>
+        <Quantity>1</Quantity>
+        <Title>SCJP Sun Certified Programmer for Java 6 Exam 310-065</Title>
+        <ProductGroup>Book</ProductGroup>
+        <Price>
+          <Amount>2900</Amount>
+          <CurrencyCode>USD</CurrencyCode>
+          <FormattedPrice>$29.00</FormattedPrice>
+        </Price>
+        <ItemTotal>
+          <Amount>2900</Amount>
+          <CurrencyCode>USD</CurrencyCode>
+          <FormattedPrice>$29.00</FormattedPrice>
+        </ItemTotal>
+      </CartItem>
+    </CartItems>
+  </Cart>
+</CartCreateResponse>
